@@ -1,4 +1,5 @@
 # jjoke-cli
+<img src='./t.webp'></img>
 ## What is this
 **The Jjoke-CLI** is an app['module'] that fetches a joke from the **[Jokes API](https://sv443.net/jokeapi/v2/)** all on your cli available for free!
 
